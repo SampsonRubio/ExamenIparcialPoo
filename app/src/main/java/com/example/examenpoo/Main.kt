@@ -1,5 +1,5 @@
 package com.example.examenpoo
 
 fun main(){
-    println("HOLA MUNDO")
+    println("HOLA KOTLIN")
 }
